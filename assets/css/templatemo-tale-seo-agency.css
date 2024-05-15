@@ -707,7 +707,7 @@ Header Style
 }
 
 .header-area.header-sticky .nav li a.active {
-    color: #245e96;
+    color: #ffffff;
 }
 
 @media (max-width: 1200px) {
@@ -1188,7 +1188,7 @@ Infos Style
 
 .infos .main-content .skill-slide span {
     position: absolute;
-    color: #5b03e4;
+    color: #17477b;
     font-size: 15px;
     font-weight: 700;
     top: -25px;
@@ -1277,7 +1277,7 @@ Contact Style
     width: 100%;
     height: 46px;
     border-radius: 23px;
-    background-color: #f9ebff;
+    background-color: ;
     border: none;
     outline: none;
     padding: 0px 15px;
@@ -1295,7 +1295,7 @@ Contact Style
     width: 100%;
     height: 120px;
     border-radius: 23px;
-    background-color: #f9ebff;
+    background-color: #d6e1ee;
     border: none;
     outline: none;
     padding: 15px;
