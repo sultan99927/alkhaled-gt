@@ -1000,7 +1000,7 @@ Services Style
 }
 
 .services::after {
-    content: url(../images/contact-left.jpg);
+/*     content: url(../images/contact-left.jpg); */
     bottom: -150px;
     right: 0;
     -webkit-transform: scaleX(-1);
